@@ -1,6 +1,6 @@
-<b><i>Simple Linear Regression using Python</i></b>
+<h2><b><i>Simple Linear Regression using Python</i></b></h2>
 
-<b>Simple steps followed :</b>
+<h4><b>Simple steps followed :</b></h4>
 1. Understanding the math behind Simple Linear Regression and need of this concept
 2. Import required Libraries
 3. Get the Data set
