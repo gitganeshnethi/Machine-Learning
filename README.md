@@ -1,4 +1,4 @@
-<h2 color='red'><b><i>Simple Linear Regression using Python</i></b></h2>
+<h2><b><i>Simple Linear Regression using Python</i></b></h2>
 
 <b>Simple steps followed :</b>
 <ul> <li> Understanding the math behind Simple Linear Regression and need of this concept</li>
@@ -12,10 +12,10 @@
 <li> Visualization</li> </ul>
    
 
-<h2 color='red'><b><i>Logistic Regression using Python</i></b></h2>
-
-* To be precise linear regression is actually the underlying concept that is used in Logistic regression
-* Understanding why Logistic regression is called as classifier 
+<h2><b><i>Logistic Regression using Python</i></b></h2>
+<ol>
+<li>To be precise linear regression is actually the underlying concept that is used in Logistic regression
+<li>Understanding why Logistic regression is called as classifier </ol>
 
 <b>Simple steps followed :</b>
 <ul> <li> Understanding the math behind Logistic Regression and need of this concept. It is obvious logistic Regression is a classifier.
