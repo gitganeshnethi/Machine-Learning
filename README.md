@@ -1,4 +1,4 @@
-<h2><b><i>Simple Linear Regression using Python</i></b></h2>
+<h3><b><i>Simple Linear Regression using Python</i></b></h3>
 
 <b>Simple steps followed :</b>
 <ul> <li> Understanding the math behind Simple Linear Regression and need of this concept</li>
