@@ -10,7 +10,7 @@
 <li> Fit the model for train data</li>
 <li> Predict for test data using the model</li>
 <li> Visualization</li> </ul>
-   
+ 
 
 <h2><b><i>Logistic Regression using Python</i></b></h2>
 <ol>
@@ -29,3 +29,6 @@
 <li> Predict for test data using the model</li>
 <li> Visualization for train data and for test data as well so that it is easy to see which are classified correctly by our model
    In my code I used meshgrid to visualize the classification. Please Google for meshgrid.</li> </ul>
+
+
+<h2><b><i>Decision Tree Classifier using Python</i></b></h2>
