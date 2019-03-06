@@ -64,8 +64,8 @@
     
     gini_outlook = (sunny/data.shape[0])*gini1_sunny + (oc/data.shape[0])*gini1_overcast + (rain/data.shape[0])*gini1_rain
     gini_outlook
- * In the above example feature is Outlook. Sunny, overcast and rain are three classes and Gini Index is calculated for each class      and the Gini index for whole feature is calculated atlast. Like wise we calculate Gini Index for all features w.r.to target              Variable
- * Finally the feature with least Gini Index is selected as Head Node
+* In the above example feature is Outlook. Sunny, overcast and rain are three classes and Gini Index is calculated for each class      and the Gini index for whole feature is calculated atlast. Like wise we calculate Gini Index for all features w.r.to target              Variable
+* Finally the feature with least Gini Index is selected as Head Node
  
 <b>Simple steps followed :</b>
 <ul><li> Understanding the math behind Decision Tree Classifier and need of this classifier</li>
