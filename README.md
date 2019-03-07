@@ -19,6 +19,7 @@
  
 
 <h2><b><i>Logistic Regression using Python</i></b></h2>
+<img src = 'https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Preprocessing+ML/content_lr_2.png'>
 <ol>
 <li>To be precise linear regression is actually the underlying concept that is used in Logistic regression
 <li>Understanding why Logistic regression is called as classifier </ol>
