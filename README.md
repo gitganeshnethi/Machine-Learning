@@ -1,5 +1,11 @@
 <h2><b><i>Simple Linear Regression using Python</i></b></h2>
 
+* Also known as Univariate Regression
+* One Dependent Variable and One Independent Variable (Say X and y)
+* Task is to find and fit the equation y = b0 + b1X 
+* Should find best fit such a way that all datapoints are less deviated from line (Method of least squares)
+* Regression comes under Supervised Learning. Here we give bot x and y(I/P and O/P) to build a model
+<img src ='https://seaborn.pydata.org/_images/seaborn-regplot-1.png'>
 <b>Simple steps followed :</b>
 <ul> <li> Understanding the math behind Simple Linear Regression and need of this concept</li>
 <li> Import required Libraries</li>
