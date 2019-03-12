@@ -6,6 +6,7 @@
 * One Dependent Variable and One Independent Variable (Say X and y)
 * Task is to find and fit the equation y = b0 + b1X 
 * Should find best fit such a way that all datapoints are less deviated from line (Method of least squares)
+  * Calculating the distance between each point and line will helps you in fitting the best line [y-y^]^2
 * Regression comes under Supervised Learning. Here we give both x and y(I/P and O/P) to build a model
 <img src ='https://seaborn.pydata.org/_images/seaborn-regplot-1.png'>
 <b>Simple steps followed :</b>
