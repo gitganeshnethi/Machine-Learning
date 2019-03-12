@@ -1,3 +1,5 @@
+<img src='https://imarticus.org/wp-content/uploads/2018/07/machine-learning.png'>
+
 <h2><b><i>Simple Linear Regression using Python</i></b></h2>
 
 * Also known as Univariate Regression
