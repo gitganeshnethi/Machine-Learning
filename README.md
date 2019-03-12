@@ -106,8 +106,8 @@
  
   * Advantage of using Random Forest Classifier is it handles higher dimensionality data very well
 
-<h2><b><i>Grid Search in Python</h2>
-<h3><b>  
+<h3><b><i>Grid Search in Python
+ 
 * Improving model's performance
 * Finding optimal values for High parameters
 * First Type of parametersare the parameters that are learned tthrough the Machine Learnng Algorithm
