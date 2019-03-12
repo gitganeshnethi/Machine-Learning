@@ -110,7 +110,7 @@
  
 * Improving model's performance
 * Finding optimal values for High parameters
-* First Type of parametersare the parameters that are learned tthrough the Machine Learnng Algorithm
+* First Type of parameters are the parameters that are learned through the Machine Learnng Algorithm
 * Second Type are the parameters that we choose
 * Using <b>Grid Search CV</b> we can know which parameter to select when I make a Machine learning Model
 * What is the optimal values of hyper parameters and grid search will give an answer to that because it will find optimal values for
