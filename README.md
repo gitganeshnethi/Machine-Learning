@@ -101,4 +101,4 @@
   * By picking f3 or f5 it calculates the gini impurity again and starts constructing a tree.</b>
  <img src='https://prachimjoshi.files.wordpress.com/2015/07/screen_shot_2010-12-03_at_5-46-21_pm.png'>
  
- * Advantage of using Random Forest Classifier is it handles higher dimensionality data very well
+* Advantage of using Random Forest Classifier is it handles higher dimensionality data very well
