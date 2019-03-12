@@ -87,4 +87,17 @@
 <li> Predict for test data using the model</li>
 <li> Visualization : You can Visualize the tree or you can also visualize using meshgrid</li> </ul>
     
-    
+<h2><b><i>Random Forest Classification</i></b></h2>    
+
+* Random Forest Classification is an ensemble learning method for classification
+* To understand this classification, we should be aware of Bagging concept.
+* <b>Bagging : Bagging is also known as Bootstrap Aggregation. The idea of bagging is to create several subsets of data
+  from training sample choosen randomly with replacement. Each bag(subset) is said to be trained and form a decision tree. 
+  Such that n bags will have ntrees. When a new record is passed to model to predict then that record is passed on n trees
+  and the majority voting is followed to conclude the class of new record.
+  * When a bag is created, it is sure that it is not including all features in the bag. Let us think in this way...
+  * There are 5 independent features(f1, f2, f3, f4, f5) and when a decision tree is constructed for this bag, the head node 
+    should be decided and it randomly selects between f3 and f5 and the child nodes are between f1 and f4, here f2 is left out.
+  * By picking f3 or f5 it calculates the gini impurity again and starts constructing a tree.</b>
+ <img src='https://prachimjoshi.files.wordpress.com/2015/07/screen_shot_2010-12-03_at_5-46-21_pm.png'>
+ * Advantage of using Random Forest Classifier is it handles higher dimensionality data very well
