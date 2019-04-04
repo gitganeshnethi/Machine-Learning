@@ -19,7 +19,12 @@
 <li> Fit the model for train data</li>
 <li> Predict for test data using the model</li>
 <li> Visualization</li> </ul>
- 
+
+
+<h2>R2 and Adjusted R2</h2>
+<p>The R-squared basically tells us how much of our data’s variability is explained by the regression line. The best value for an R-squared depends on the particular case. When we feel like we are missing important information, we can simply add more factors. This is where the adjusted R-squared comes into play. It measures the variability of our model but it also considers the number of variables. Therefore, it is always smaller than the R-squared. Moreover, the adjusted R-squared is the basis for comparing regression models.</p>
+
+
 
 <h2><b><i>Logistic Regression using Python</i></b></h2>
 <img src = 'https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Preprocessing+ML/content_lr_2.png'>
